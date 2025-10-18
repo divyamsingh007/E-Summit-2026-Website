@@ -92,12 +92,12 @@ const Footer = () => {
         <div className="border-t border-border pt-8 pb-4 text-center">
           <p className="font-body text-sm text-muted-foreground">
             Designed & Developed by &nbsp;
-            <span className="text-accent font-semibold">E-Cell Tech Team Including: </span>
-            <ol className="list-decimal list-inside">
+            <span className="text-accent font-semibold">E-Cell Tech Team</span>
+            {/* <ol className="list-decimal list-inside ">
               <li>Krish Bhutani</li>
               <li>Atharv Golait</li>
               <li>Divyam Singh Duhoon</li>
-            </ol>
+            </ol> */}
           </p>
         </div>
         <div className="border-t border-border pt-8 text-center">
